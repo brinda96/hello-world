@@ -1,2 +1,2 @@
 # hello-world
-Its just a repository.
+hi,this is brinda.im editing or changing this repository.
